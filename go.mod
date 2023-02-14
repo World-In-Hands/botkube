@@ -2,7 +2,7 @@ module github.com/infracloudio/botkube
 
 require (
 	github.com/Masterminds/squirrel v1.1.0 // indirect
-	github.com/aws/aws-sdk-go v1.32.12
+	github.com/aws/aws-sdk-go v1.34.0
 	github.com/blang/semver v3.5.1+incompatible // indirect
 	github.com/bwmarrin/discordgo v0.20.3
 	github.com/docker/docker v1.13.1 // indirect
